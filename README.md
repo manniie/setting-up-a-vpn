@@ -158,4 +158,5 @@ Virtual Machin IP VPN (Japan) 212.102.51.251
   
 </p>
 <hr>
+
 Congratulations you have successfully set up a VPN on a virtual machine through this tutorial.
